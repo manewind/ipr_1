@@ -1,0 +1,12 @@
+.env
+
+vendor/
+
+mysql_data/
+*.sql
+
+.idea/
+.vscode/
+*.swp
+
+*.log
